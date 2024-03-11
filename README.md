@@ -4,7 +4,7 @@
 
 ```bash
 composer install
-
+```
 
 ## set up server and run 
 
@@ -16,4 +16,5 @@ curl --location 'https://localhost/sendemail' \
   "email": "sender@example.com",
   "message": "Hello World!"
 }'
+```
 
